@@ -42,3 +42,20 @@
 - [Flexbox guide RU](https://frontender.info/a-guide-to-flexbox/) - guide to CSS flexbox;
 - [Autoprefixer CSS](https://autoprefixer.github.io/) - autoprefixer CSS online;
 - [SassMeister](https://www.sassmeister.com/) - the Sass playground;
+
+## Fonts & Pixels & Other links
+
+- [Link list #1](http://tpverstak.ru/) - useful links by Typical typesetter;
+- [Link list #2](https://aislam23.github.io/links/) - useful links by aislam23;
+- [Link list #2](https://bool.dev/blog) - useful links by bool dev;
+- [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
+- [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
+- [Google Fonts](https://fonts.google.com/) - google fonts;
+- [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/) - service for interacting with fonts;
+- [Can I Use](https://caniuse.com/) - provides up-to-date browser support tables;
+- [Font Size Conversion](https://websemantics.uk/tools/font-size-conversion-pixel-point-em-rem-percent/) - font size conversion: pixel-point-em-rem-percent;
+- [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle;
+- [Rico's Cheatsheets](https://devhints.io/) - modest collection of cheatsheets;
+- [Photopea](https://www.photopea.com/) - free online editor supporting PSD, XCF, Sketch, XD and CDR formats;
+- [Figma](https://www.figma.com/) - cloud-based design tool;
+- [Ever SQL](https://www.eversql.com/) - optimize any SQL query, automatically;
