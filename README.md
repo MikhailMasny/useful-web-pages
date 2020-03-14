@@ -59,3 +59,16 @@
 - [Photopea](https://www.photopea.com/) - free online editor supporting PSD, XCF, Sketch, XD and CDR formats;
 - [Figma](https://www.figma.com/) - cloud-based design tool;
 - [Ever SQL](https://www.eversql.com/) - optimize any SQL query, automatically;
+
+## Front-end frameworks
+- [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS library in the world;
+- [BULMA](https://bulma.io/) - free, open source CSS framework;
+- [UIkit](https://getuikit.com/) - lightweight and modular front-end framework;
+- [Semantic UI](https://semantic-ui.com/) - user Interface is the language of the web;
+- [Materialize](https://materializecss.com/) - modern responsive front-end framework;
+- [Pure CSS](https://purecss.io/) - set of small, responsive CSS modules;
+- [Foundation](https://get.foundation/) - the most advanced responsive front-end framework;
+- [Skeleton](http://getskeleton.com/) - dead simple, responsive boilerplate;
+- [Material UI](https://material-ui.com/) - react components for faster and easier web development;
+- [Ant Design](https://ant.design/) - design system for enterprise-level products;
+- 
