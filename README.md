@@ -44,11 +44,25 @@
 - [SassMeister](https://www.sassmeister.com/) - the Sass playground;
 - [CSS Grid](https://cssgr.id/) - interactive CSS Grid code tool and generator;
 
+## JavaScript
+
+- [Learn JS](https://learn.javascript.ru/) - the modern JavaScript tutorial;
+- [You Dont Know JS](https://github.com/getbodya/you-dont-know-js-ru) - series of books about JavaScript;
+- [Node.js](https://nodejs.org/en/) - a JavaScript runtime built on Chrome's V8 JavaScript engine;
+- [NPM](https://www.npmjs.com/) - build amazing things;
+- [Bower](https://bower.io/) - package manager for the web;
+- [Webpack](https://webpack.js.org/) - module bundler;
+- [Gulp](https://gulpjs.com/) - automate and enhance your workflow;
+- [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle;
+- [Babel JS](https://babeljs.io/) - a JavaScript compiler;
+
 ## Fonts & Pixels & Other links
 
 - [Link list #1](http://tpverstak.ru/) - useful links by Typical typesetter;
 - [Link list #2](https://aislam23.github.io/links/) - useful links by aislam23;
-- [Link list #2](https://bool.dev/blog) - useful links by bool dev;
+- [Link list #3](https://bool.dev/blog) - useful links by bool dev;
+- [Link list #4](https://ru.code-basics.com/) - useful links by code-basics;
+- [Hexlet Guides](https://guides.hexlet.io/) - most popular articles on general topics;
 - [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
 - [Google Fonts](https://fonts.google.com/) - google fonts;
@@ -60,6 +74,7 @@
 - [Photopea](https://www.photopea.com/) - free online editor supporting PSD, XCF, Sketch, XD and CDR formats;
 - [Figma](https://www.figma.com/) - cloud-based design tool;
 - [Ever SQL](https://www.eversql.com/) - optimize any SQL query, automatically;
+- [JWT](https://jwt.io/) - JSON web tokens;
 
 ## Images & Icons
 
