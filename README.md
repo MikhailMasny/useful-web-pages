@@ -9,3 +9,8 @@
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=ru) - easiest way to identify fonts on web pages;
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - open source browser design tools;
 - [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - tool for design a site with pixel accuracy;
+
+## Git tutorials
+- [Git How To](https://githowto.com/) - guided tour that walks through the fundamentals of Git;
+- [Git Command Explorer](https://gitexplorer.com/) - list of git commands;
+- [Learn Git Branching](https://learngitbranching.js.org/) - git online tutorial;
