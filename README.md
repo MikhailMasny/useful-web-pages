@@ -42,6 +42,7 @@
 - [Flexbox guide RU](https://frontender.info/a-guide-to-flexbox/) - guide to CSS flexbox;
 - [Autoprefixer CSS](https://autoprefixer.github.io/) - autoprefixer CSS online;
 - [SassMeister](https://www.sassmeister.com/) - the Sass playground;
+- [CSS Grid](https://cssgr.id/) - interactive CSS Grid code tool and generator;
 
 ## Fonts & Pixels & Other links
 
@@ -52,16 +53,31 @@
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
 - [Google Fonts](https://fonts.google.com/) - google fonts;
 - [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/) - service for interacting with fonts;
+- [Font Awesome](https://fontawesome.com/) - vector icons and social logos;
 - [Can I Use](https://caniuse.com/) - provides up-to-date browser support tables;
 - [Font Size Conversion](https://websemantics.uk/tools/font-size-conversion-pixel-point-em-rem-percent/) - font size conversion: pixel-point-em-rem-percent;
-- [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle;
 - [Rico's Cheatsheets](https://devhints.io/) - modest collection of cheatsheets;
 - [Photopea](https://www.photopea.com/) - free online editor supporting PSD, XCF, Sketch, XD and CDR formats;
 - [Figma](https://www.figma.com/) - cloud-based design tool;
 - [Ever SQL](https://www.eversql.com/) - optimize any SQL query, automatically;
 
+## Images & Icons
+
+- [Unsplash](https://unsplash.com/) - the internet’s source of freely usable images;
+- [Pixabay](https://pixabay.com/) - over 1 million+ high quality stock images and videos;
+- [Pexels](https://www.pexels.com/) - the best free stock photos & videos;
+- [Fakeimg](https://fakeimg.pl/) - tool that generates images with an URL;
+- [Coverr](https://coverr.co/) - beautiful free stock video footage;
+- [Videezy](https://www.videezy.com/) - free HD stock footage & 4K videos;
+- [Image Placeholder](https://placeholder.com/) - the free image placeholder;
+- [Placeimg](https://placeimg.com/) - service to generate image by params;
+- [Trainglify](https://trianglify.io/) - low poly pattern generator;
+- [Favicon Generator](https://realfavicongenerator.net/) - simple favicon generator;
+- [Flaticon](https://www.flaticon.com/) - the largest database of free icons;
+
 ## Front-end frameworks
-- [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS library in the world;
+
+- [Bootstrap](https://getbootstrap.com/) - the most popular HTML, CSS, and JS library in the world;
 - [BULMA](https://bulma.io/) - free, open source CSS framework;
 - [UIkit](https://getuikit.com/) - lightweight and modular front-end framework;
 - [Semantic UI](https://semantic-ui.com/) - user Interface is the language of the web;
@@ -70,5 +86,5 @@
 - [Foundation](https://get.foundation/) - the most advanced responsive front-end framework;
 - [Skeleton](http://getskeleton.com/) - dead simple, responsive boilerplate;
 - [Material UI](https://material-ui.com/) - react components for faster and easier web development;
+- [Material Design](https://material.io/) - design system, backed by open-source code;
 - [Ant Design](https://ant.design/) - design system for enterprise-level products;
-- 
