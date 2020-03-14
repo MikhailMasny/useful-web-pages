@@ -1,6 +1,7 @@
 # Useful web pages
 
 ## Chrome extensions
+
 - [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - simple CSS property viewer;
 - [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) - tool for designers to measure screen dimensions;
 - [MeasureMate](https://chrome.google.com/webstore/detail/measuremate/fcbffocoaopnenhgbchlchgndohggdei) - tool for measuring distances between elements on websites;
@@ -11,11 +12,23 @@
 - [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - tool for design a site with pixel accuracy;
 
 ## Git
+
 - [Git How To](https://githowto.com/) - guided tour that walks through the fundamentals of Git;
 - [Git Command Explorer](https://gitexplorer.com/) - list of git commands;
 - [Learn Git Branching](https://learngitbranching.js.org/) - git online tutorial;
 
+## HTML
+
+- [HTML Academy Style](http://codeguide.academy/html-css.html) - HTML Academy Code Style;
+- [BEM](https://en.bem.info/methodology/) - documentation of BEM methodology;
+- [HTML tips and tricks](https://yoksel.github.io/bad-practices/) - "bad practies" of HTML;
+- [HTML rules](http://yoksel.github.io/easy-markup/) - simple markup rules;
+- [HTML Reference](https://htmlreference.io/) - list of all HTML tags;
+- [HTML Base](https://htmlbase.ru/) - the most modern reference for HTML and CSS;
+- [HTML Template](https://tpverstak.ru/seo-html-template/) - basic SEO HTML Template;
+
 ## CSS
+
 - [Flexbox Froggy](https://flexboxfroggy.com/) - a game for learning CSS flexbox;
 - [Grid Garden](http://cssgridgarden.com/) - a game for learning CSS grid;
 - [CSS Diner](https://flukeout.github.io/) - a game for learning CSS;
