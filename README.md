@@ -116,6 +116,17 @@
 - [Shouldly](https://github.com/shouldly/shouldly) - assertion framework which focuses on giving great error messages;
 - [Fluent Assertions](https://fluentassertions.com/) - expected outcome of a TDD or BDD-style unit tests;
 
+## Visual Studio
+
+- [GitHub Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio) - easy to connect to and work with your repositories on GitHub;
+- [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid) - cleanup and simplify our C# and any programming languages;
+- [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017) - install each of the individual components of Productivity Power Tools;
+- [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools) - useful design-time DbContext features;
+- [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer) - highlight and remove any trailing whitespace on any line;
+- [Sharpen](https://marketplace.visualstudio.com/items?itemName=ironcev.sharpen) - intelligently introduces new C# language features into your existing code base;
+- [Serilog Analyzer](https://marketplace.visualstudio.com/items?itemName=Suchiman.SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library;
+- [Web Essentials 2017](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017) - ultimate web development experience;
+
 ## Visual Studio Code
 
 - [VS Code JS Tutorial](https://code.visualstudio.com/docs/languages/javascript) - JavaScript in Visual Studio Code;
@@ -124,6 +135,7 @@
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - code analyzer for JavaScript;
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - code analyzer for TypeScript;
 - [JSHint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) - linter for JavaScript;
+- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - live Scratchpad for JavaScript;
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - debug your JavaScript code running in Google Chrome;
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design icons into your VS Code;
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - launch a local development server;
@@ -137,11 +149,19 @@
 - [Google Fonts](https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts) - allows you to browse the Google Fonts list and insert;
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - run code snippet or code file for multiple languages;
 - [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack) - snippet pack for JavaScript;
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - contains code snippets for JavaScript in ES6 syntax;
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - colorizes the indentation in front of your text;
 - [BEM Helper](https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper) - improve writing html using BEM naming conventions;
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development;
+- [IntelliSense for CSS](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - provides CSS class name completion for the HTML;
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - provides comprehensive YAML Language;
+- [NPM](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - supports running npm scripts defined in the package.json file;
+- [NPM IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - autocompletes npm modules in import statements;
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - synchronize all Visual Studio Code settings;
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - lightweight development tools for .NET Core and more;
 - [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) - extension for developing Microsoft SQL Server and more.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - makes it easy to build, manage and deploy containerized applications;
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - use any remote machine with a SSH server as your dev env
 
 ## Chrome extensions
 
