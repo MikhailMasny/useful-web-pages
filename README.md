@@ -1,16 +1,5 @@
 # Useful web pages
 
-## Chrome extensions
-
-- [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - simple CSS property viewer;
-- [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) - tool for designers to measure screen dimensions;
-- [MeasureMate](https://chrome.google.com/webstore/detail/measuremate/fcbffocoaopnenhgbchlchgndohggdei) - tool for measuring distances between elements on websites;
-- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - screenshot of your current page;
-- [User CSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb) - quick and easy way to add custom CSS to the current web site;
-- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=ru) - easiest way to identify fonts on web pages;
-- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - open source browser design tools;
-- [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - tool for design a site with pixel accuracy;
-
 ## Git
 
 - [Git How To](https://githowto.com/) - guided tour that walks through the fundamentals of Git;
@@ -75,6 +64,7 @@
 - [Figma](https://www.figma.com/) - cloud-based design tool;
 - [Ever SQL](https://www.eversql.com/) - optimize any SQL query, automatically;
 - [JWT](https://jwt.io/) - JSON web tokens;
+- [Emmet](https://emmet.io/) - plugin for many popular text editors;
 
 ## Images & Icons
 
@@ -103,3 +93,41 @@
 - [Material UI](https://material-ui.com/) - react components for faster and easier web development;
 - [Material Design](https://material.io/) - design system, backed by open-source code;
 - [Ant Design](https://ant.design/) - design system for enterprise-level products;
+
+## Visual Studio Code
+
+- [VS Code JS Tutorial](https://code.visualstudio.com/docs/languages/javascript) - JavaScript in Visual Studio Code;
+- [VS Code Basic Setup](https://www.youtube.com/watch?v=nxCLXMBl4e4) - Visual Studio Code basic application setup;
+- [Can Do That](https://burkeholland.gitbook.io/vs-code-can-do-that/) - what Visual Studio Code can do that (Workshop);
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - code analyzer for JavaScript;
+- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - code analyzer for TypeScript;
+- [JSHint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) - linter for JavaScript;
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - debug your JavaScript code running in Google Chrome;
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design icons into your VS Code;
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - launch a local development server;
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - opinionated code formatter;
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - allows matching brackets to be identified with colours;
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - view a Git Graph of your repository and more;
+- [VSCode Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - generate fake data inside Visual Studio Code;
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames;
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - helps you to navigate in your code;
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - help you create more human-friendly comments in your code;
+- [Google Fonts](https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts) - allows you to browse the Google Fonts list and insert;
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - run code snippet or code file for multiple languages;
+- [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack) - snippet pack for JavaScript;
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - colorizes the indentation in front of your text;
+- [BEM Helper](https://marketplace.visualstudio.com/items?itemName=Box-Of-Hats.bemhelper) - improve writing html using BEM naming conventions;
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - lightweight development tools for .NET Core and more;
+- [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) - extension for developing Microsoft SQL Server and more.
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - makes it easy to build, manage and deploy containerized applications;
+
+## Chrome extensions
+
+- [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - simple CSS property viewer;
+- [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) - tool for designers to measure screen dimensions;
+- [MeasureMate](https://chrome.google.com/webstore/detail/measuremate/fcbffocoaopnenhgbchlchgndohggdei) - tool for measuring distances between elements on websites;
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - screenshot of your current page;
+- [User CSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb) - quick and easy way to add custom CSS to the current web site;
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=ru) - easiest way to identify fonts on web pages;
+- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - open source browser design tools;
+- [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - tool for design a site with pixel accuracy;
