@@ -94,6 +94,28 @@
 - [Material Design](https://material.io/) - design system, backed by open-source code;
 - [Ant Design](https://ant.design/) - design system for enterprise-level products;
 
+## Back-end frameworks
+
+- [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/) - .NET documentation by Microsoft;
+- [LINQ Samples](https://linqsamples.com/linq-to-objects/set) - compilation of 101 LINQ samples;
+- [101 LINQ samples](https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/) - compilation of 101 LINQ samples by Microsoft;
+- [Dofactory](https://www.dofactory.com/net/decorator-design-pattern) - SOLID and design patterns;
+- [Refactoring Guru](https://refactoring.guru/ru) - design patterns in different programming languages;
+- [CQRS pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - command and query responsibility segregation pattern;
+- [MediatR](https://github.com/jbogard/MediatR) - simple mediator implementation in .NET;
+- [Fluent Validation](https://fluentvalidation.net/) - popular .NET library for building strongly-typed validation rules;
+- [Serilog](https://serilog.net/) - flexible, structured events — log file convenience;
+- [MimeKit](http://www.mimekit.net/) - MimeKit and MailKit are popular fully-featured email frameworks for .NET;
+- [Automapper](https://automapper.org/) - getting rid of code that mapped one object to another;
+- [Coravel](https://github.com/jamesmh/coravel) - helps developers get their .NET Core applications up-and-running fast;
+- [Health Checks](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-3.1) - reporting the health of app infrastructure components;
+- [SignalR](https://dotnet.microsoft.com/apps/aspnet/signalr) - incredibly simple real-time web for ASP.NET;
+- [xUnit](https://xunit.net/) - unit testing tool for the .NET Framework;
+- [Integration Tests](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-3.1) - integration tests in ASP.NET Core;
+- [Moq](https://github.com/Moq/moq4/wiki/Quickstart) - Moq is intended to be simple to use, strongly typed and minimalistic;
+- [Shouldly](https://github.com/shouldly/shouldly) - assertion framework which focuses on giving great error messages;
+- [Fluent Assertions](https://fluentassertions.com/) - expected outcome of a TDD or BDD-style unit tests;
+
 ## Visual Studio Code
 
 - [VS Code JS Tutorial](https://code.visualstudio.com/docs/languages/javascript) - JavaScript in Visual Studio Code;
