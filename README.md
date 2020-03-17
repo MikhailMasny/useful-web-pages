@@ -47,10 +47,11 @@
 
 ## Fonts & Pixels & Other links
 
-- [Link list #1](http://tpverstak.ru/) - useful links by Typical typesetter;
-- [Link list #2](https://aislam23.github.io/links/) - useful links by aislam23;
-- [Link list #3](https://bool.dev/blog) - useful links by bool dev;
-- [Link list #4](https://ru.code-basics.com/) - useful links by code-basics;
+- [Links list #1](http://tpverstak.ru/) - useful links by Typical typesetter;
+- [Links list #2](https://aislam23.github.io/links/) - useful links by aislam23;
+- [Links list #3](https://bool.dev/blog) - useful links by bool dev;
+- [Links list #4](https://ru.code-basics.com/) - useful links by code-basics;
+- [Links list #5](https://htmlacademy.ru/blog/boost/tools) - top tools by htmlacademy;
 - [Hexlet Guides](https://guides.hexlet.io/) - most popular articles on general topics;
 - [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
@@ -161,7 +162,7 @@
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - lightweight development tools for .NET Core and more;
 - [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) - extension for developing Microsoft SQL Server and more.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - makes it easy to build, manage and deploy containerized applications;
-- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - use any remote machine with a SSH server as your dev env
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - use any remote machine with a SSH server as your dev env;
 
 ## Chrome extensions
 
