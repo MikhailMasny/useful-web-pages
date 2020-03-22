@@ -45,6 +45,8 @@
 - [Gulp](https://gulpjs.com/) - automate and enhance your workflow;
 - [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle;
 - [Babel JS](https://babeljs.io/) - a JavaScript compiler;
+- [JS Loupe](http://latentflip.com/loupe/) - how to work event louple;
+- [JSON Placeholder](http://jsonplaceholder.typicode.com/) - fake online REST API for testing and prototyping;
 
 ## Fonts & Pixels & Other links
 
