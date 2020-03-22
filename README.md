@@ -26,6 +26,7 @@
 - [UI Gradients](https://uigradients.com/) - create beautiful CSS background gradient;
 - [Coolors](https://coolors.co/) - the super fast color schemes generator;
 - [Animista](https://animista.net/) - create CSS animation;
+- [Animate](https://daneden.github.io/animate.css/) - choose CSS animation (library);
 - [Triangle Generator](http://apps.eky.hk/css-triangle-generator/) - CSS triangle generator;
 - [Flexbox guide EN](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - comprehensive guide to CSS flexbox layout;
 - [Flexbox guide RU](https://frontender.info/a-guide-to-flexbox/) - guide to CSS flexbox;
