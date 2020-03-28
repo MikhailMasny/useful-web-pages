@@ -15,6 +15,7 @@
 - [HTML Reference](https://htmlreference.io/) - list of all HTML tags;
 - [HTML Base](https://htmlbase.ru/) - the most modern reference for HTML and CSS;
 - [HTML Template](https://tpverstak.ru/seo-html-template/) - basic SEO HTML Template;
+- [HTML DOM](https://htmldom.dev/) - how to manage HTML DOM;
 
 ## CSS
 
@@ -69,6 +70,7 @@
 - [Ever SQL](https://www.eversql.com/) - optimize any SQL query, automatically;
 - [JWT](https://jwt.io/) - JSON web tokens;
 - [Emmet](https://emmet.io/) - plugin for many popular text editors;
+- [Programming Fonts](https://app.programmingfonts.org/) - test drive programming fonts;
 
 ## Images & Icons
 
