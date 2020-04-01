@@ -168,6 +168,8 @@
 - [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) - extension for developing Microsoft SQL Server and more.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - makes it easy to build, manage and deploy containerized applications;
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - use any remote machine with a SSH server as your dev env;
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - allow peeking to css ID and class strings;
+- [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations) - annotations for parameters in your JS / TS Files;
 
 ## Chrome extensions
 
