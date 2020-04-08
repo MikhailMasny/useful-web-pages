@@ -10,6 +10,7 @@
 
 - [HTML Academy Style](http://codeguide.academy/html-css.html) - HTML Academy Code Style;
 - [BEM](https://en.bem.info/methodology/) - documentation of BEM methodology;
+- [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/) - Simple BEM cheat sheet;
 - [HTML tips and tricks](https://yoksel.github.io/bad-practices/) - "bad practies" of HTML;
 - [HTML rules](http://yoksel.github.io/easy-markup/) - simple markup rules;
 - [HTML Reference](https://htmlreference.io/) - list of all HTML tags;
