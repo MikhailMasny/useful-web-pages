@@ -57,6 +57,7 @@
 - [Links list #3](https://bool.dev/blog) - useful links by bool dev;
 - [Links list #4](https://ru.code-basics.com/) - useful links by code-basics;
 - [Links list #5](https://htmlacademy.ru/blog/boost/tools) - top tools by htmlacademy;
+- [Links list #6](https://codepip.com/) - learn to code by playing games;
 - [Hexlet Guides](https://guides.hexlet.io/) - most popular articles on general topics;
 - [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
