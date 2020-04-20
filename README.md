@@ -193,3 +193,8 @@
 - [JS Bin](http://jsbin.com/?html,output) - a live pastebin for HTML, CSS & JavaScript and etc;
 - [DotNet Fiddle](https://dotnetfiddle.net/) - test your C# code online with .NET Fiddle code editor;
 - [Online C# IDE](https://repl.it/languages/csharp) - online C# IDE;
+
+## Presentation yourself
+
+- [Speaking](https://speaking.io/) - the best practices to create a good presentation;
+- [Slides](https://slides.com/) - make better presentations;
