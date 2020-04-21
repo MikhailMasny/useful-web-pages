@@ -198,3 +198,4 @@
 
 - [Speaking](https://speaking.io/) - the best practices to create a good presentation;
 - [Slides](https://slides.com/) - make better presentations;
+- [GRAF1X](https://graf1x.com/) - beautiful color palettes;
