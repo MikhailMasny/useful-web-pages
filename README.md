@@ -58,6 +58,8 @@
 - [Links list #4](https://ru.code-basics.com/) - useful links by code-basics;
 - [Links list #5](https://htmlacademy.ru/blog/boost/tools) - top tools by htmlacademy;
 - [Links list #6](https://codepip.com/) - learn to code by playing games;
+- [Links list #7](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - best websites a programmer should visit;
+- [Links list #8](https://github.com/nicothin/web-development) - settings, instructions, tools used in web development;
 - [Hexlet Guides](https://guides.hexlet.io/) - most popular articles on general topics;
 - [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
@@ -199,3 +201,6 @@
 - [Speaking](https://speaking.io/) - the best practices to create a good presentation;
 - [Slides](https://slides.com/) - make better presentations;
 - [GRAF1X](https://graf1x.com/) - beautiful color palettes;
+- [HTML To Figma](https://github.com/BuilderIO/html-to-figma) - figma plugin to convert HTML from a URL to Figma;
+- [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in your browser and export it;
+- [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill your empty background;
