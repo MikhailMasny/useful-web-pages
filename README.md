@@ -35,6 +35,8 @@
 - [Autoprefixer CSS](https://autoprefixer.github.io/) - autoprefixer CSS online;
 - [SassMeister](https://www.sassmeister.com/) - the Sass playground;
 - [CSS Grid](https://cssgr.id/) - interactive CSS Grid code tool and generator;
+- [CSS Animation](https://cssanimation.rocks/principles/) - animation principles for the Web;
+- [Animation exmaples](https://css-tricks.com/tips-for-writing-animation-code-efficiently/) - tips for writing animation code efficiently;
 
 ## JavaScript
 
