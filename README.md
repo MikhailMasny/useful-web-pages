@@ -204,3 +204,4 @@
 - [HTML To Figma](https://github.com/BuilderIO/html-to-figma) - figma plugin to convert HTML from a URL to Figma;
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in your browser and export it;
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill your empty background;
+- [Color Hunt](https://colorhunt.co/) - color palettes for designers and artists;
