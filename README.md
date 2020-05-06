@@ -77,6 +77,7 @@
 - [JWT](https://jwt.io/) - JSON web tokens;
 - [Emmet](https://emmet.io/) - plugin for many popular text editors;
 - [Programming Fonts](https://app.programmingfonts.org/) - test drive programming fonts;
+- [Temp Mail](https://temp-mail.org/en/) - generator of temporary email address;
 
 ## Images & Icons
 
@@ -176,6 +177,7 @@
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - use any remote machine with a SSH server as your dev env;
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - allow peeking to css ID and class strings;
 - [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations) - annotations for parameters in your JS / TS Files;
+- [Commitizen](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen) - git commit with conventions;
 
 ## Chrome extensions
 
