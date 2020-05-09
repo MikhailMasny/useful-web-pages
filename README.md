@@ -37,6 +37,10 @@
 - [CSS Grid](https://cssgr.id/) - interactive CSS Grid code tool and generator;
 - [CSS Animation](https://cssanimation.rocks/principles/) - animation principles for the Web;
 - [Animation exmaples](https://css-tricks.com/tips-for-writing-animation-code-efficiently/) - tips for writing animation code efficiently;
+- [HTML To Figma](https://github.com/BuilderIO/html-to-figma) - figma plugin to convert HTML from a URL to Figma;
+- [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in your browser and export it;
+- [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill your empty background;
+- [Color Hunt](https://colorhunt.co/) - color palettes for designers and artists;
 
 ## JavaScript
 
@@ -209,7 +213,11 @@
 - [Speaking](https://speaking.io/) - the best practices to create a good presentation;
 - [Slides](https://slides.com/) - make better presentations;
 - [GRAF1X](https://graf1x.com/) - beautiful color palettes;
-- [HTML To Figma](https://github.com/BuilderIO/html-to-figma) - figma plugin to convert HTML from a URL to Figma;
-- [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in your browser and export it;
-- [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill your empty background;
-- [Color Hunt](https://colorhunt.co/) - color palettes for designers and artists;
+
+## Free hostings
+- [Heroku](https://www.heroku.com/) - build data-driven apps with fully managed data services;
+- [Netlify](https://www.netlify.com/) - the fastest way to build the fastest sites;
+- [Somee](https://somee.com/) - free hosting for DotNet apps with MS SQL Server;
+- [Github Pages](https://pages.github.com/) - websites for you and your projects;
+- [Now](https://vercel.com/) - the optimal workflow for frontend teams;
+- [Firebase](https://firebase.google.com/docs/hosting/) - fast and secure hosting for your web app and etc;
