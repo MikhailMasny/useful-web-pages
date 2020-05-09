@@ -62,6 +62,7 @@
 - [Links list #6](https://codepip.com/) - learn to code by playing games;
 - [Links list #7](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - best websites a programmer should visit;
 - [Links list #8](https://github.com/nicothin/web-development) - settings, instructions, tools used in web development;
+- [Links list #9](https://dotnetcoretutorials.com/) - DotNet Core tutorials;
 - [Hexlet Guides](https://guides.hexlet.io/) - most popular articles on general topics;
 - [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
@@ -74,10 +75,13 @@
 - [Photopea](https://www.photopea.com/) - free online editor supporting PSD, XCF, Sketch, XD and CDR formats;
 - [Figma](https://www.figma.com/) - cloud-based design tool;
 - [Ever SQL](https://www.eversql.com/) - optimize any SQL query, automatically;
+- [SQLite browser](https://sqlitebrowser.org/) - DB Browser for SQLite;
+- [SQLite online browser](https://sqliteonline.com/) - Online DB Browser for SQLite;
 - [JWT](https://jwt.io/) - JSON web tokens;
 - [Emmet](https://emmet.io/) - plugin for many popular text editors;
 - [Programming Fonts](https://app.programmingfonts.org/) - test drive programming fonts;
 - [Temp Mail](https://temp-mail.org/en/) - generator of temporary email address;
+- [EF Core Tutorials](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - EF Core examples and tutorials;
 
 ## Images & Icons
 
