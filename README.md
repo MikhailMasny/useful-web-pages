@@ -41,6 +41,7 @@
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in your browser and export it;
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill your empty background;
 - [Color Hunt](https://colorhunt.co/) - color palettes for designers and artists;
+- [Pure CSS Loaders](https://loading.io/css/) - open source CSS loading animations;
 
 ## JavaScript
 
@@ -67,6 +68,7 @@
 - [Links list #7](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - best websites a programmer should visit;
 - [Links list #8](https://github.com/nicothin/web-development) - settings, instructions, tools used in web development;
 - [Links list #9](https://dotnetcoretutorials.com/) - DotNet Core tutorials;
+- [Links list #10](https://ulearn.me/) - interactive online programming courses;
 - [Hexlet Guides](https://guides.hexlet.io/) - most popular articles on general topics;
 - [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
@@ -136,6 +138,7 @@
 - [Moq](https://github.com/Moq/moq4/wiki/Quickstart) - Moq is intended to be simple to use, strongly typed and minimalistic;
 - [Shouldly](https://github.com/shouldly/shouldly) - assertion framework which focuses on giving great error messages;
 - [Fluent Assertions](https://fluentassertions.com/) - expected outcome of a TDD or BDD-style unit tests;
+- [Flurl](https://flurl.dev/) - URL builder and HTTP client library for .NET;
 
 ## Visual Studio
 
@@ -214,7 +217,13 @@
 - [Slides](https://slides.com/) - make better presentations;
 - [GRAF1X](https://graf1x.com/) - beautiful color palettes;
 
+## Design
+
+- [unDraw](https://undraw.co/) - open-source illustrations for any idea you can imagine and create;
+- [Mockplus](https://www.mockplus.com/) - all-in-one product design platform for prototyping, collaboration, and design systems;
+
 ## Free hostings
+
 - [Heroku](https://www.heroku.com/) - build data-driven apps with fully managed data services;
 - [Netlify](https://www.netlify.com/) - the fastest way to build the fastest sites;
 - [Somee](https://somee.com/) - free hosting for DotNet apps with MS SQL Server;
