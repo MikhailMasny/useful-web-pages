@@ -1,5 +1,12 @@
 # Useful web pages
 
+## Developer Roadmaps
+
+- [DotNet](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap/master/aspnetcore-developer-roadmap.png) - step by step guide to becoming a ASP NET Core developer;
+- [Backend](https://roadmap.sh/roadmaps/backend.png) - step by step guide to becoming a modern backend developer;
+- [Frontend](https://roadmap.sh/roadmaps/frontend.png) - step by step guide to becoming a modern frontend developer;
+- [DevOps](https://roadmap.sh/roadmaps/devops.png) - step by step guide for DevOps or any other Operations Role;
+
 ## Git
 
 - [Git How To](https://githowto.com/) - guided tour that walks through the fundamentals of Git;
@@ -69,6 +76,7 @@
 - [Links list #8](https://github.com/nicothin/web-development) - settings, instructions, tools used in web development;
 - [Links list #9](https://dotnetcoretutorials.com/) - DotNet Core tutorials;
 - [Links list #10](https://ulearn.me/) - interactive online programming courses;
+- [Links list #11](https://roadmap.sh/) - community driven roadmaps, articles and resources for developers;
 - [Hexlet Guides](https://guides.hexlet.io/) - most popular articles on general topics;
 - [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
