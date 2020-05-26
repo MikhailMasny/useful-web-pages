@@ -49,6 +49,7 @@
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill your empty background;
 - [Color Hunt](https://colorhunt.co/) - color palettes for designers and artists;
 - [Pure CSS Loaders](https://loading.io/css/) - open source CSS loading animations;
+- [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker;
 
 ## JavaScript
 
@@ -92,10 +93,13 @@
 - [SQLite browser](https://sqlitebrowser.org/) - DB Browser for SQLite;
 - [SQLite online browser](https://sqliteonline.com/) - Online DB Browser for SQLite;
 - [JWT](https://jwt.io/) - JSON web tokens;
+- [Parse JWT](https://jwt.ms/) - parse JWT;
 - [Emmet](https://emmet.io/) - plugin for many popular text editors;
 - [Programming Fonts](https://app.programmingfonts.org/) - test drive programming fonts;
 - [Temp Mail](https://temp-mail.org/en/) - generator of temporary email address;
 - [EF Core Tutorials](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - EF Core examples and tutorials;
+- [Gource](https://gource.io/) - animated tree with the root directory of the project at its centre;
+- [Regex](https://regexr.com/) - online tool to learn, build, & test regular expressions;
 
 ## Images & Icons
 
@@ -224,6 +228,7 @@
 - [Speaking](https://speaking.io/) - the best practices to create a good presentation;
 - [Slides](https://slides.com/) - make better presentations;
 - [GRAF1X](https://graf1x.com/) - beautiful color palettes;
+- [Miro](https://miro.com/) - The online collaborative whiteboard platform to bring teams together;
 
 ## Design
 
