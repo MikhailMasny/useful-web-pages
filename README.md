@@ -9,6 +9,7 @@
 
 ## Git
 
+- [Git](https://education.github.com/git-cheat-sheet-education.pdf) - git cheat sheet;
 - [Git How To](https://githowto.com/) - guided tour that walks through the fundamentals of Git;
 - [Git Command Explorer](https://gitexplorer.com/) - list of git commands;
 - [Learn Git Branching](https://learngitbranching.js.org/) - git online tutorial;
@@ -243,3 +244,10 @@
 - [Github Pages](https://pages.github.com/) - websites for you and your projects;
 - [Now](https://vercel.com/) - the optimal workflow for frontend teams;
 - [Firebase](https://firebase.google.com/docs/hosting/) - fast and secure hosting for your web app and etc;
+
+## Articles
+
+- [Fetch](https://dev.to/shoupn/javascript-fetch-api-and-using-asyncawait-47mp) - JavaScript fetch API and using async / await;
+- [ESLint](https://medium.com/better-programming/using-eslint-right-4d18ef1e0d0b) - using ESLint right;
+- [EditorConfig](https://medium.com/@edvinsantonovs/why-development-teams-should-use-editorconfig-f58011b1cc56) - Why development teams should use EditorConfig;
+- [Webpack](https://medium.com/nuances-of-programming/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-webpack-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%BE%D0%B2-6cafbf562386) - introduction to Webpack for beginners (RU);
