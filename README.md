@@ -202,6 +202,7 @@
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - allow peeking to css ID and class strings;
 - [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations) - annotations for parameters in your JS / TS Files;
 - [Commitizen](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen) - git commit with conventions;
+- [Better comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - create more human-friendly comments in your code.
 
 ## Chrome extensions
 
