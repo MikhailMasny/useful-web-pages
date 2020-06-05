@@ -28,8 +28,10 @@
 
 - [Can I Use](https://caniuse.com/) - provides up-to-date browser support tables;
 - [JSON Placeholder](http://jsonplaceholder.typicode.com/) - fake online REST API for testing and prototyping;
+- [JSON Editor](https://jsoneditoronline.org/) - json online editor;
 - [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
 - [Regex](https://regexr.com/) - online tool to learn, build, & test regular expressions;
+- [CDN JS](https://cdnjs.com/) - the best front-end resource CDN for free;
 
 ## JWT
 

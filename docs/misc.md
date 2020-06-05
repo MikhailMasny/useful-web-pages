@@ -25,3 +25,6 @@
 - [Rico's Cheatsheets](https://devhints.io/) - modest collection of cheatsheets;
 - [Temp Mail](https://temp-mail.org/en/) - generator of temporary email address;
 - [Gource](https://gource.io/) - animated tree with the root directory of the project at its centre;
+- [Diffchecker](https://www.diffchecker.com/) - diff tool to compare text differences between two text files;
+- [Code Beautify](https://codebeautify.org/) - online code beautifier which allows you to beautify your source code;
+- [Web dev checklist](https://www.toptal.com/developers/webdevchecklist) - web developer checklist;
