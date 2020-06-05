@@ -40,3 +40,6 @@
 - [Commitizen](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen) - git commit with conventions;
 - [Solution explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer) - Visual Studio .sln file explorer for Visual Studio Code;
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - real-time collaborative development from the comfort of your favorite tools;
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - shows the latest version for each package using code lens;
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations and etc;
+- [React JS snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - simple extensions for React, Redux and GraphQL;
