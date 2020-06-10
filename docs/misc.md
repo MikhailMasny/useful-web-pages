@@ -19,6 +19,8 @@
 - [ESLint](https://medium.com/better-programming/using-eslint-right-4d18ef1e0d0b) - using ESLint right;
 - [EditorConfig](https://medium.com/@edvinsantonovs/why-development-teams-should-use-editorconfig-f58011b1cc56) - Why development teams should use EditorConfig;
 - [Webpack](https://www.freecodecamp.org/news/a-beginners-introduction-to-webpack-2620415e46b3/) - introduction to Webpack for beginners;
+- [React auth](https://medium.com/better-programming/building-basic-react-authentication-e20a574d5e71) - building basic react authentication;
+- [React cheat sheet](https://reactcheatsheet.com/) - simple react cheat sheet;
 
 ## Common services
 

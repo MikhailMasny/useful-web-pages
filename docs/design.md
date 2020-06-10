@@ -3,6 +3,7 @@
 ## Colors & Gradients
 
 - [UI Gradients](https://uigradients.com/) - create beautiful CSS background gradient;
+- [Web gradients](https://webgradients.com/) - free collection of 180 linear gradients;
 - [Trainglify](https://trianglify.io/) - low poly pattern generator;
 - [Color Hunt](https://colorhunt.co/) - color palettes for designers and artists;
 - [Coolors](https://coolors.co/) - the super fast color schemes generator;
