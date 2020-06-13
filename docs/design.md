@@ -45,6 +45,7 @@
 
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
 - [Font Size Conversion](https://websemantics.uk/tools/font-size-conversion-pixel-point-em-rem-percent/) - font size conversion: pixel-point-em-rem-percent;
+- [PNG to ICO converter](https://convertico.com/) - free online PNG to ICO file converter;
 
 ## Github repositories
 
