@@ -20,3 +20,6 @@
 - [Shouldly](https://github.com/shouldly/shouldly) - assertion framework which focuses on giving great error messages;
 - [Fluent Assertions](https://fluentassertions.com/) - expected outcome of a TDD or BDD-style unit tests;
 - [Flurl](https://flurl.dev/) - URL builder and HTTP client library for .NET;
+- [SimpleExec](https://github.com/adamralph/simple-exec) - .NET library that runs external commands;
+- [Glob](https://github.com/kthompson/glob/) - a pattern-matching syntax that shells use;
+- [Bullseye](https://github.com/adamralph/bullseye) - .NET library for describing and running targets and their dependencies;
