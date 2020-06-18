@@ -13,6 +13,8 @@
 - [Typical typesetter](http://tpverstak.ru/) - useful links by Typical typesetter;
 - [HTML Academy Tools](https://htmlacademy.ru/blog/boost/tools) - top tools by htmlacademy;
 - [Roadmaps](https://roadmap.sh/) - community driven roadmaps, articles and resources for developers;
+- [Hide API keys](https://medium.com/better-programming/how-to-hide-your-api-keys-c2b952bc07e6) - how to hide your API keys;
+- [ReactJS routes](https://medium.com/@subalerts/creating-protected-routes-in-react-js-89e95974a822) - creating protected routes in React JS;
 
 ## NPM Tutorials
 

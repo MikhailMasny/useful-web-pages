@@ -27,6 +27,13 @@
 - [Image Placeholder](https://placeholder.com/) - the free image placeholder;
 - [Placeimg](https://placeimg.com/) - service to generate image by params;
 
+## Figma templates
+
+- [Free design resources](https://freedesignresources.net/) - high quality design resources for free;
+- [Figma crush](https://www.figmacrush.com/) - the biggest collection of free resources for figma;
+- [UI store design](https://www.uistore.design/types/figma/) - free figma design resources;
+- [Figma finder](https://www.figmafinder.com/) - figma resources & UI kits;
+
 ## Icons
 
 - [Flaticon](https://www.flaticon.com/) - the largest database of free icons;
