@@ -2,7 +2,7 @@
 
 - [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/) - .NET documentation by Microsoft;
 - [LINQ Samples](https://linqsamples.com/linq-to-objects/set) - compilation of 101 LINQ samples;
-- [101 LINQ samples](https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/) - compilation of 101 LINQ samples by Microsoft;
+- [101 LINQ Samples](https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/) - compilation of 101 LINQ samples by Microsoft;
 - [Dofactory](https://www.dofactory.com/net/decorator-design-pattern) - SOLID and design patterns;
 - [Refactoring Guru](https://refactoring.guru/ru) - design patterns in different programming languages;
 - [CQRS pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - command and query responsibility segregation pattern;
@@ -23,3 +23,6 @@
 - [SimpleExec](https://github.com/adamralph/simple-exec) - .NET library that runs external commands;
 - [Glob](https://github.com/kthompson/glob/) - a pattern-matching syntax that shells use;
 - [Bullseye](https://github.com/adamralph/bullseye) - .NET library for describing and running targets and their dependencies;
+- [AutoHistory](https://github.com/Arch/AutoHistory) - plugin to support automatically recording data changes history;
+- [SQLKata](https://github.com/sqlkata/querybuilder) - powerful Sql Query Builder written in C#;
+- [Stryker](https://stryker-mutator.io/) - test your tests with mutation testing;

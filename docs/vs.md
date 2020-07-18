@@ -1,5 +1,6 @@
 # Visual Studio extensions
 
+- [Tips for Visual Studio](https://www.visualstudiotips.co.uk/) - collection of Visual Studio Tips to help improve your productivity, etc;
 - [GitHub Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio) - easy to connect to and work with your repositories on GitHub;
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid) - cleanup and simplify our C# and any programming languages;
 - [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017) - install each of the individual components of Productivity Power Tools;

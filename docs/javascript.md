@@ -2,18 +2,19 @@
 
 ## Main
 
-- [Learn JS](https://learn.javascript.ru/) - the modern JavaScript tutorial;
-- [JS Loupe](http://latentflip.com/loupe/) - how to work event louple;
+- [Learn JS](https://learn.javascript.ru/) - modern JavaScript tutorial;
+- [JS Loupe](http://latentflip.com/loupe/) - how to work event loupe;
 - [You Dont Know JS](https://github.com/getbodya/you-dont-know-js-ru) - series of books about JavaScript;
 - [Fetch](https://dev.to/shoupn/javascript-fetch-api-and-using-asyncawait-47mp) - JavaScript fetch API and using async / await;
+- [Axios](https://github.com/axios/axios) - promise based HTTP client for browser and node.js;
 
 ## Node & NPM
 
-- [Node.js](https://nodejs.org/en/) - a JavaScript runtime built on Chrome's V8 JavaScript engine;
+- [Node.js](https://nodejs.org/en/) - JavaScript runtime built on Chrome's V8 JavaScript engine;
 - [NPM](https://www.npmjs.com/) - build amazing things;
 - [Webpack](https://webpack.js.org/) - module bundler;
 - [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle;
-- [Babel](https://babeljs.io/) - a JavaScript compiler;
+- [Babel](https://babeljs.io/) - JavaScript compiler;
 - [ESLint](https://eslint.org/) - find and fix problems in your JavaScript code;
 - [Editorconfig](https://editorconfig.org/) - helps maintain consistent coding styles;
 - [Bower](https://bower.io/) - package manager for the web;

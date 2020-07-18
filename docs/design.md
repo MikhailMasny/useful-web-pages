@@ -3,10 +3,10 @@
 ## Colors & Gradients
 
 - [UI Gradients](https://uigradients.com/) - create beautiful CSS background gradient;
-- [Web gradients](https://webgradients.com/) - free collection of 180 linear gradients;
+- [Web Gradients](https://webgradients.com/) - free collection of 180 linear gradients;
 - [Trainglify](https://trianglify.io/) - low poly pattern generator;
 - [Color Hunt](https://colorhunt.co/) - color palettes for designers and artists;
-- [Coolors](https://coolors.co/) - the super fast color schemes generator;
+- [Coolors](https://coolors.co/) - super fast color schemes generator;
 - [GRAF1X](https://graf1x.com/) - beautiful color palettes;
 
 ## Fonts
@@ -18,21 +18,21 @@
 ## Images & Illustrations
 
 - [unDraw](https://undraw.co/) - open-source illustrations for any idea you can imagine and create;
-- [Unsplash](https://unsplash.com/) - the internet’s source of freely usable images;
-- [Pixabay](https://pixabay.com/) - over 1 million+ high quality stock images and videos;
+- [Unsplash](https://unsplash.com/) - internet source of freely usable images;
+- [Pixabay](https://pixabay.com/) - over 1 million of high quality stock images and videos;
 - [Pexels](https://www.pexels.com/) - the best free stock photos & videos;
 - [Coverr](https://coverr.co/) - beautiful free stock video footage;
 - [Videezy](https://www.videezy.com/) - free HD stock footage & 4K videos;
-- [Fakeimg](https://fakeimg.pl/) - tool that generates images with an URL;
-- [Image Placeholder](https://placeholder.com/) - the free image placeholder;
+- [Fakeimg](https://fakeimg.pl/) - tool that generates images with a URL;
+- [Image Placeholder](https://placeholder.com/) - free image placeholder;
 - [Placeimg](https://placeimg.com/) - service to generate image by params;
 
 ## Figma templates
 
-- [Free design resources](https://freedesignresources.net/) - high quality design resources for free;
-- [Figma crush](https://www.figmacrush.com/) - the biggest collection of free resources for figma;
-- [UI store design](https://www.uistore.design/types/figma/) - free figma design resources;
-- [Figma finder](https://www.figmafinder.com/) - figma resources & UI kits;
+- [Free Design Resources](https://freedesignresources.net/) - high quality design resources for free;
+- [Figma Crush](https://www.figmacrush.com/) - the biggest collection of free resources for figma;
+- [UI Store Design](https://www.uistore.design/types/figma/) - free figma design resources;
+- [Figma Finder](https://www.figmafinder.com/) - figma resources & UI kits;
 
 ## Icons
 
@@ -52,7 +52,9 @@
 
 - [Design Converter](https://avocode.com/convert-psd-to-sketch) - convert PSD designs to Sketch;
 - [Font Size Conversion](https://websemantics.uk/tools/font-size-conversion-pixel-point-em-rem-percent/) - font size conversion: pixel-point-em-rem-percent;
-- [PNG to ICO converter](https://convertico.com/) - free online PNG to ICO file converter;
+- [PNG to ICO Converter](https://convertico.com/) - free online PNG to ICO file converter;
+- [TinyPNG](https://tinypng.com/) - smart PNG and JPEG compression;
+- [Favicon](https://favicon.io/) - favicon generators;
 
 ## Github repositories
 

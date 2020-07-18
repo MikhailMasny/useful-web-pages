@@ -3,7 +3,7 @@
 ## Tutorials
 
 - [VS Code JS Tutorial](https://code.visualstudio.com/docs/languages/javascript) - JavaScript in Visual Studio Code;
-- [Can Do That](https://burkeholland.gitbook.io/vs-code-can-do-that/) - what Visual Studio Code can do that (Workshop);
+- [Can Do That](https://burkeholland.gitbook.io/vs-code-can-do-that/) - what Visual Studio Code can do (Workshop);
 
 ## Extensions
 
@@ -41,5 +41,5 @@
 - [Solution explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer) - Visual Studio .sln file explorer for Visual Studio Code;
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - real-time collaborative development from the comfort of your favorite tools;
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - shows the latest version for each package using code lens;
-- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations and etc;
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations, etc;
 - [React JS snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - simple extensions for React, Redux and GraphQL;

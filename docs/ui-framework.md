@@ -11,6 +11,7 @@
 - [Material UI](https://material-ui.com/) - react components for faster and easier web development;
 - [Material Design](https://material.io/) - design system, backed by open-source code;
 - [Ant Design](https://ant.design/) - design system for enterprise-level products;
-- [Tailwind UI](https://tailwindui.com/) - иeautiful UI components;
+- [Tailwind UI](https://tailwindui.com/) - beautiful UI components;
 - [Chakra UI](https://chakra-ui.com/) - build accessible React apps & websites with speed;
+- [Clarity Design System](https://clarity.design/) - UX guidelines, HTML/CSS framework and etc;
 - [Reactstrap](https://reactstrap.github.io/) - easy to use React Bootstrap 4 components;
