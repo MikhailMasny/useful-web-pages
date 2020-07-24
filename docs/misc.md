@@ -41,6 +41,7 @@
 
 ## Common services
 
+- [Papercut SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - simple desktop email helper;
 - [Rico's Cheatsheets](https://devhints.io/) - modest collection of cheatsheets;
 - [Temp Mail](https://temp-mail.org/en/) - generator of temporary email address;
 - [Ethereal](https://ethereal.email/) - fake SMTP service;
