@@ -38,8 +38,11 @@
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - allow peeking to css ID and class strings;
 - [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations) - annotations for parameters in your JS / TS Files;
 - [Commitizen](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen) - git commit with conventions;
-- [Solution explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer) - Visual Studio .sln file explorer for Visual Studio Code;
+- [Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer) - Visual Studio .sln file explorer for Visual Studio Code;
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - real-time collaborative development from the comfort of your favorite tools;
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - shows the latest version for each package using code lens;
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations, etc;
 - [React JS snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - simple extensions for React, Redux and GraphQL;
+- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - organize your imports;
+- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - provides a rich editing experience for Angular templates;
+- [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - snippets for Angular for TypeScript and HTML;
