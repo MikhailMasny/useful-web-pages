@@ -38,6 +38,7 @@
 
 - [Flaticon](https://www.flaticon.com/) - the largest database of free icons;
 - [Favicon Generator](https://realfavicongenerator.net/) - simple favicon generator;
+- [ConvertICO](https://convertico.com/favicon/) - free online favicon converter
 
 ## Design systems
 
