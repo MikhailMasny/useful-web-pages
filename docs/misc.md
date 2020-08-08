@@ -38,6 +38,7 @@
 - [Authentication](https://www.c-sharpcorner.com/article/implement-gmail-and-facebook-based-authentication-in-asp-net-core-2-2/) - GMail And Facebook based authentication;
 - [Azure Container Registry](https://www.c-sharpcorner.com/article/deploy-net-core-application-to-linux-containers-on-azure-web-app-using-azure-pi/) - deploy .NET Core application;
 - [Collections](https://www.c-sharpcorner.com/article/difference-between-iqueryable-and-ienumerable-while-working-in-linq/) - difference between IQueryable, IEnumerable and IList;
+- [Windows Authentication](https://gist.github.com/DamienBraillard/4dbd6aa2c56edf5a8e57c59b6e08da94) - simple role authorization with windows authentication
 
 ## Common services
 
