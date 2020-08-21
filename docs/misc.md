@@ -14,7 +14,6 @@
 - [HTML Academy Tools](https://htmlacademy.ru/blog/boost/tools) - top tools by htmlacademy;
 - [Roadmaps](https://roadmap.sh/) - community driven roadmaps, articles and resources for developers;
 - [Hide API keys](https://medium.com/better-programming/how-to-hide-your-api-keys-c2b952bc07e6) - how to hide your API keys;
-- [ReactJS routes](https://medium.com/@subalerts/creating-protected-routes-in-react-js-89e95974a822) - creating protected routes in React JS;
 - [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/) - Bootstrap 4 cheat sheet;
 - [Challenge websites](https://proglib.io/p/challenge-websites/) - 10 sites with tasks that will make you a pro;
 - [All types of sort](https://habr.com/ru/post/204600/) - bubble sort and all-all-all;
@@ -25,9 +24,6 @@
 - [ESLint](https://medium.com/better-programming/using-eslint-right-4d18ef1e0d0b) - using ESLint right;
 - [EditorConfig](https://medium.com/@edvinsantonovs/why-development-teams-should-use-editorconfig-f58011b1cc56) - Why development teams should use EditorConfig;
 - [Webpack](https://www.freecodecamp.org/news/a-beginners-introduction-to-webpack-2620415e46b3/) - introduction to Webpack for beginners;
-- [React auth](https://medium.com/better-programming/building-basic-react-authentication-e20a574d5e71) - building basic react authentication;
-- [React Cheatsheet #1](https://reactcheatsheet.com/) - simple react cheat sheet;
-- [React Cheatsheet #2](https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/) - the React Cheatsheet for 2020;
 
 ## .NET
 
