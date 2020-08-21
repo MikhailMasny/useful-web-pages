@@ -1,5 +1,6 @@
 # Database & SQL
 
+- [PopSQL](https://popsql.com/) - write queries, visualize data, and share your results;
 - [Ever SQL](https://www.eversql.com/) - optimize any SQL query, automatically;
 - [SQLite Browser](https://sqlitebrowser.org/) - DB Browser for SQLite;
 - [SQLite Online Browser](https://sqliteonline.com/) - Online DB Browser for SQLite;
