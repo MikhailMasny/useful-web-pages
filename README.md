@@ -5,7 +5,7 @@
 - [HTML](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/html.md)
 - [CSS](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/css.md)
 - [JavaScript](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/javascript.md)
-- [JavaScript](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/react.md)
+- [React](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/react.md)
 - [UI Frameworks](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/ui-framework.md)
 - [Design](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/design.md)
 - [Database & SQL](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/database.md)
