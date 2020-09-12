@@ -6,6 +6,7 @@
 - [HTML Base](https://htmlbase.ru/) - the most modern reference for HTML and CSS;
 - [BEM](https://en.bem.info/methodology/) - documentation of BEM methodology;
 - [W3C Validator](https://validator.w3.org/) - markup validation service;
+- [MarkSheet](https://marksheet.io/) - free HTML and CSS tutorials;
 
 ## Cheatsheet
 
