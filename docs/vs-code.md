@@ -46,3 +46,7 @@
 - [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - organize your imports;
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - provides a rich editing experience for Angular templates;
 - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - snippets for Angular for TypeScript and HTML;
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - editor config Support for Visual Studio Code;
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - helps you to visualize code authorship at a glance via Git blame annotations and etc;
+- [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - compile Sass or Scss to CSS at realtime with live browser reload;
+- [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql) - extension for developing PostgreSQL;
