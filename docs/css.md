@@ -27,6 +27,7 @@
 - [Triangle Generator](http://apps.eky.hk/css-triangle-generator/) - CSS triangle generator;
 - [Autoprefixer CSS](https://autoprefixer.github.io/) - autoprefixer CSS online;
 - [PX to REM](https://nekocalc.com/px-to-rem-converter) - convertor px to rem;
+- [Hot To Center In CSS](http://howtocenterincss.com/) - service for centering data in the div block;
 
 ## Github repositories
 
