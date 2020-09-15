@@ -9,3 +9,4 @@
 - [Sharpen](https://marketplace.visualstudio.com/items?itemName=ironcev.sharpen) - intelligently introduces new C# language features into your existing code base;
 - [Serilog Analyzer](https://marketplace.visualstudio.com/items?itemName=Suchiman.SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library;
 - [Web Essentials 2017](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017) - ultimate web development experience;
+- [WebPack Task Runner](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebPackTaskRunner) - adds support for webpack in Visual Studio;
