@@ -15,7 +15,7 @@ Every day I try to learn something new in programming and I like to share this i
 - [CSS](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/css.md)
 - [JavaScript](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/javascript.md)
 - [React](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/react.md)
-- Angular TBD..
+- [Angular](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/angular.md)
 
 ### 💎 Design
 

@@ -50,3 +50,5 @@
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - helps you to visualize code authorship at a glance via Git blame annotations and etc;
 - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - compile Sass or Scss to CSS at realtime with live browser reload;
 - [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql) - extension for developing PostgreSQL;
+- [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - bring icons to your Visual Studio Code;
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - plugin that autocompletes filenames;
