@@ -28,6 +28,8 @@
 - [Autoprefixer CSS](https://autoprefixer.github.io/) - autoprefixer CSS online;
 - [PX to REM](https://nekocalc.com/px-to-rem-converter) - convertor px to rem;
 - [Hot To Center In CSS](http://howtocenterincss.com/) - service for centering data in the div block;
+- [Specificity Calculator](https://specificity.keegan.st/) - visual way to understand CSS specificity;
+- [CSS Layout](https://csslayout.io/) - ollection of popular layouts and patterns;
 
 ## Github repositories
 

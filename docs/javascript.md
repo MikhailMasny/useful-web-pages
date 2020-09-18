@@ -34,6 +34,9 @@
 - [Pythontutor](http://www.pythontutor.com/) - visualize code and get live help;
 - [Regex](https://regexr.com/) - online tool to learn, build, & test regular expressions;
 - [CDN JS](https://cdnjs.com/) - the best front-end resource CDN for free;
+- [HTML DOM](https://htmldom.dev/) - manage HTML DOM with vanilla JavaScript;
+- [FormValidation](https://formvalidation.io/) - best validation library for JavaScript;
+- [JS Snippets](https://1loc.dev/) - 212 favorite JavaScript utilities;
 
 ## JWT
 

@@ -56,6 +56,7 @@
 - [PNG to ICO Converter](https://convertico.com/) - free online PNG to ICO file converter;
 - [TinyPNG](https://tinypng.com/) - smart PNG and JPEG compression;
 - [Favicon](https://favicon.io/) - favicon generators;
+- [Type Scale](https://type-scale.com/) - visual type scale calculator;
 
 ## Github repositories
 

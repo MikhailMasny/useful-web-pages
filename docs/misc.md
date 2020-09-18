@@ -2,6 +2,7 @@
 
 ## Sites
 
+- [Web Skills](https://andreasbm.github.io/web-skills/) - visual overview of useful skills to learn as a web developer;
 - [Glo Academy](https://aislam23.github.io/links/) - useful links by aislam23;
 - [Best websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - best websites a programmer should visit;
 - [Web development](https://github.com/nicothin/web-development) - settings, instructions, tools used in web development;
@@ -18,6 +19,8 @@
 - [Challenge websites](https://proglib.io/p/challenge-websites/) - 10 sites with tasks that will make you a pro;
 - [All types of sort](https://habr.com/ru/post/204600/) - bubble sort and all-all-all;
 - [DDD concept](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) - DDD, Hexagonal, Onion, Clean, CQRS and etc;
+- [10 Tags](https://www.elated.com/first-10-html-tags/) - your first 10 HTML tags;
+- [JSDoc](https://dev.to/paulasantamaria/document-your-javascript-code-with-jsdoc-2fbf) - document your JavaScript code;
 
 ## NPM Tutorials
 

@@ -1,6 +1,6 @@
 # 📚 Useful web pages
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/MikhailMasny/useful-web-pages/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/MikhailMasny/useful-web-pages/blob/master/LICENSE) ![](https://vistr.dev/badge?repo=MikhailMasny.useful-web-pages&color=49c31b) 
 
 Every day I try to learn something new in programming and I like to share this information with other people, so I decided to create a repository that will combine many useful links in different categories. This repository will help a beginner to navigate a huge amount of information easily and refresh certain tricks even for a programmer with great experience.
 
