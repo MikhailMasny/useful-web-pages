@@ -31,6 +31,7 @@ Every day I try to learn something new in programming and I like to share this i
 
 ### 🌌 Misc
 
+- [Books](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/books.md)
 - [Misc](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/misc.md)
 - [Roadmaps](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/roadmaps.md)
 - [Presentation yourself](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/presentation.md)
