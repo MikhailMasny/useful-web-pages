@@ -34,8 +34,8 @@ Every day I try to learn something new in programming and I like to share this i
 - [Misc](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/misc.md)
 - [Roadmaps](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/roadmaps.md)
 - [Presentation yourself](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/presentation.md)
-- [Online code playgrounds](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/sandbox.md)
-- [Free hostings](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/hosting.md)
+- [Online code playgrounds](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/sandboxs.md)
+- [Free hostings](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/hostings.md)
 - [YouTube content](https://github.com/MikhailMasny/useful-web-pages/blob/master/docs/youtube.md)
 
 ## 🙌🏼 How to Contribute?
