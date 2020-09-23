@@ -37,6 +37,9 @@
 - [HTML DOM](https://htmldom.dev/) - manage HTML DOM with vanilla JavaScript;
 - [FormValidation](https://formvalidation.io/) - best validation library for JavaScript;
 - [JS Snippets](https://1loc.dev/) - 212 favorite JavaScript utilities;
+- [JavaScript Replacement](http://youmightnotneedjquery.com/) - you might not need jQuery;
+- [Keycodes](http://keycodes.atjayjo.com/) - keyboard codes;
+
 
 ## JWT
 

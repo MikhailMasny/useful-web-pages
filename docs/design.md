@@ -14,6 +14,8 @@
 - [Google Fonts](https://fonts.google.com/) - google fonts;
 - [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/) - service for interacting with fonts;
 - [Font Awesome](https://fontawesome.com/) - vector icons and social logos;
+- [Font Squirrel](https://www.fontsquirrel.com/) - free fonts have met their match;
+- [Fonts For Designers](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380) - 81 best free fonts for designers;
 
 ## Images & Illustrations
 
@@ -37,17 +39,23 @@
 ## Icons
 
 - [Flaticon](https://www.flaticon.com/) - the largest database of free icons;
+- [Ionicons](https://ionicons.com/) - beautifully crafted open source icons;
+- [Font Awesome](http://fontawesome.io/) - vector icons and social logos;
+- [Iconmonstr](https://iconmonstr.com/) - more 4500+ free icons;
 - [Favicon Generator](https://realfavicongenerator.net/) - simple favicon generator;
 - [ConvertICO](https://convertico.com/favicon/) - free online favicon converter
 
 ## Design systems
 
 - [Mockplus](https://www.mockplus.com/) - all-in-one product design platform for prototyping, collaboration, and design systems;
+- [Media Queries](https://mediaqueri.es/) - examples of media queries;
+- [Call To Idea](http://www.calltoidea.com/) - light up your imagination;
 
 ## IDE
 
 - [Photopea](https://www.photopea.com/) - free online editor supporting PSD, XCF, Sketch, XD and CDR formats;
 - [Figma](https://www.figma.com/) - cloud-based design tool;
+- [Sizzy](https://sizzy.co/) - the browser for developers;
 
 ## Services
 
@@ -55,6 +63,7 @@
 - [Font Size Conversion](https://websemantics.uk/tools/font-size-conversion-pixel-point-em-rem-percent/) - font size conversion: pixel-point-em-rem-percent;
 - [PNG to ICO Converter](https://convertico.com/) - free online PNG to ICO file converter;
 - [TinyPNG](https://tinypng.com/) - smart PNG and JPEG compression;
+- [Optimizilla](https://imagecompressor.com/) - online image optimizer uses a smart combination of the best optimization;
 - [Favicon](https://favicon.io/) - favicon generators;
 - [Type Scale](https://type-scale.com/) - visual type scale calculator;
 

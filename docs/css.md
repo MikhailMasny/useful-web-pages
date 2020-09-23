@@ -2,7 +2,8 @@
 
 ## Main
 
-- [CSS Reference](https://cssreference.io/) - list of all CSS properties;
+- [CSS Reference #1](https://cssreference.io/) - list of all CSS properties;
+- [CSS Reference #2](http://tympanus.net/codrops/css_reference/) - extensive CSS reference with all the important properties;
 
 ## Examples
 
