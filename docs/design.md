@@ -50,6 +50,7 @@
 - [Mockplus](https://www.mockplus.com/) - all-in-one product design platform for prototyping, collaboration, and design systems;
 - [Media Queries](https://mediaqueri.es/) - examples of media queries;
 - [Call To Idea](http://www.calltoidea.com/) - light up your imagination;
+- [Daily Design](https://uidesigndaily.com/) - daily UI design components and pages;
 
 ## IDE
 
