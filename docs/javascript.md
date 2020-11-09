@@ -5,6 +5,7 @@
 - [Learn JS](https://learn.javascript.ru/) - modern JavaScript tutorial;
 - [JS Loupe](http://latentflip.com/loupe/) - how to work event loupe;
 - [You Dont Know JS](https://github.com/getbodya/you-dont-know-js-ru) - series of books about JavaScript;
+- [Javascript Dev Bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) - collection of articles;
 - [Fetch](https://dev.to/shoupn/javascript-fetch-api-and-using-asyncawait-47mp) - JavaScript fetch API and using async / await;
 - [Axios](https://github.com/axios/axios) - promise based HTTP client for browser and node.js;
 
@@ -39,7 +40,6 @@
 - [JS Snippets](https://1loc.dev/) - 212 favorite JavaScript utilities;
 - [JavaScript Replacement](http://youmightnotneedjquery.com/) - you might not need jQuery;
 - [Keycodes](http://keycodes.atjayjo.com/) - keyboard codes;
-
 
 ## JWT
 
